@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-3wnmc-zpg6vs53ig@-$z$1mq@6x4!lm2u!vw9%n013e0tglkcf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://social-media-drf-backend.onrender.com","127.0.0.1","localhost"]
 
 AUTH_USER_MODEL = 'base.MyUser'
 
