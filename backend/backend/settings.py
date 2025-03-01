@@ -72,6 +72,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173", 
+    "https://social-media-drf-frontend.onrender.com"
 ]
 
 CORS_ALLOW_CREDENTIALS = True
